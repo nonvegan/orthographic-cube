@@ -370,3 +370,5 @@ bin/
 *sln
 *.vcxproj
 *.filters
+
+ortho-cube
